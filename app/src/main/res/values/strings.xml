@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anna\'s Application</string>
+    <string name="move_to_next_activity">Move to next activity</string>
+    <string name="you_did_it">You did it!</string>
+</resources>
